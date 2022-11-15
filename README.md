@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Estou estudando para trabalhar com Desenvolvedor Front End, além de cursar Analise e Desenvolvimento de Sistemas! 👨🏽‍🎓📚
+    Estou estudando para trabalhar com Desenvolvedor Front-End, além de cursar Analise e Desenvolvimento de Sistemas! 👨🏽‍🎓📚
   </p>
   
 </div>
