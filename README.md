@@ -1,30 +1,47 @@
-### Bem-vindo(a) ao meu perfil 😄
-
-- Buscando trabalhar com front-end 🏃🏽‍♂️
-- Estudando Analise e Desenvolvimento de Sistemas 👨🏽‍🎓📚
-
 <div>
-   <a href="https://github.com/lopes-matheus">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lopes-matheus&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopes-matheus&layout=compact&langs_count=6&theme=cobalt"/>
-
+  
+  <h1 align="center">
+    Oi Tudo bem? Meu nome é 
+    <a href="https://www.linkedin.com/in/matheus-lopes-845341257">Matheus Lopes 😎</a>
+  </h1>
+  
+  <p align="center">
+    Estou estudando para me tornar Desenvolvedor Front End, além de cursar Analise e Desenvolvimento de Sistemas! 👨🏽‍🎓📚
+  </p>
+  
 </div>
-<div style="display: inline_block"><br>
+
+<div align="center">
+  <a href="https://github.com/lopes-matheus">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lopes-matheus&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopes-matheus&theme=cobalt&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+<div align="center" valign="top"><br>
+  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
- 
- <br>
- 
-  ### Redes sociais onde você pode me encontrar!
- 
-<div> 
-  <a href="https://instagram.com/gudsmatheus?igshid=YmMyMTA2M2Y=" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/@SucodeFruta" target="_blank" rel="external"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:lopesmatheus.dev@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-lopes-845341257" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/lopes-matheus/lopes-matheus/blob/output/github-contribution-grid-snake.svg)
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div><br>
 
+<h2 align="center">
+  Redes sociais onde você pode me encontrar!
+</h2>
+
+<div align="center">
+  <a href="https://instagram.com/gudsmatheus?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-lopes-845341257" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:lopesmatheus.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/lopes-matheus/lopes-matheus/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/duribeiro">Eduardo Ribeiro</a></p>
 </div>
